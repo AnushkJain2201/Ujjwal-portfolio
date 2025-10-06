@@ -87,51 +87,6 @@ export const projects = [
 		site: "https://github.com/Jainujjwal0001/TDF_Prac",
 		link: "https://github.com/Jainujjwal0001/TDF_Prac",
 	},
-	{
-		id: 3,
-		title: "NIGHT NEST CAMPING - Camp, Adventure, Fun",
-		des: "You're going to fall in love with nature the day you camp in the beautiful island near bargi dam.",
-		img: "/camping.png",
-		iconLists: [
-			"/re.svg",
-			"/tail.svg",
-			"/ts.svg",
-			"/three.svg",
-			"/mongodb.svg",
-		],
-		site: "https://camping-frontend.vercel.app/",
-		link: "https://github.com/Aryan-219/camping_frontend",
-	},
-	{
-		id: 4,
-		title: "Society website",
-		des: "Build on top of MERN stack, the website is the face of the technical society of our college, JEC.",
-		img: "/jlug.png",
-		iconLists: [
-			"/next.svg",
-			"/tail.svg",
-			"/ts.svg",
-			"/node.svg",
-			"/mongodb.svg",
-		],
-		site: "http://www.jlug.club/",
-		link: "https://github.com/Aryan-219/jlug-website-FrontEnd",
-	},
-	{
-		id: 5,
-		title: "TedxJec",
-		des: "Designed in MERN to spread the word of TEDxJEC, one of the most prestigious events held since years...",
-		img: "/tedx.png",
-		iconLists: [
-			"/next.svg",
-			"/tail.svg",
-			"/ts.svg",
-			"/node.svg",
-			"/mongodb.svg",
-		],
-		site: "http://www.tedxjec.co",
-		link: "https://github.com/Aryan-219/tedxjec_original",
-	},
 ];
 
 export const testimonials = [
@@ -143,22 +98,22 @@ export const testimonials = [
 	{
 		quote: "Collaborating with Ujjwal was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ujjwal's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ujjwal is the ideal partner.",
 		name: "Saket Gupta",
-		title: "Founder of the project - NIGHT NEST",
+		title: "Founder",
 	},
 	{
 		quote: "Collaborating with Ujjwal was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ujjwal's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ujjwal is the ideal partner.",
 		name: "Saket Gupta",
-		title: "Founder of the project - NIGHT NEST",
+		title: "Founder",
 	},
 	{
 		quote: "Collaborating with Ujjwal was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ujjwal's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ujjwal is the ideal partner.",
 		name: "Saket Gupta",
-		title: "Founder of the project - NIGHT NEST",
+		title: "Founder",
 	},
 	{
 		quote: "Collaborating with Ujjwal was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ujjwal's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ujjwal is the ideal partner.",
 		name: "Saket Gupta",
-		title: "Founder of the project - NIGHT NEST",
+		title: "Founder",
 	},
 ];
 
